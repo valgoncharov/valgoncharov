@@ -1,7 +1,16 @@
 ### Hi there! I'm Valentyne 👋
 - 🔭 I’m QA Engineer
 - 🌱 I’m currently learning at QA.GURU
-- 📫 How to reach me: Telegram @Almer_Kiuze
+
+### How to reach me:
+
+  <a href="https://t.me/Almer_Kiuze">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+      
+  <a href="https://www.linkedin.com/in/valentyne-goncharov-843a59213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 
 # Проект по API тестированию для 
 
