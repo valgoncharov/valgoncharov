@@ -31,8 +31,7 @@
 
 </p>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgoncharov)](https://github.com/valgoncharov/github-readme-stats)
-
+ 
  ## My projects:
 ### :heavy_check_mark: UI Autotests for test web example
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=qa_guru_owner)](https://github.com/valgoncharov/qa_guru_owner)
@@ -42,3 +41,8 @@
 
 ### :heavy_check_mark: Mobile Autotests for Wikipedia app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_mobile)](https://github.com/valgoncharovB/final_project_mobile)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valgoncharov)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valgoncharov) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valgoncharov)
+---
