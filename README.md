@@ -16,9 +16,9 @@
 
 <p  align="center"> 
 
-<img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
-<img width="5%" title="Selenide" src="media/icons/Selenide.svg">
+<img width="5%" title="Java" src="Image/Java.svg">
+<img width="5%" title="Selenoid" src="Image/Selenoid.svg">
+<img width="5%" title="Selenide" src="Image/Selenide.svg">
 <img width="5%" title="Gradle" src="media/icons/Gradle.svg">
 <img width="5%" title="Junit5" src="media/icons/Junit5.svg">
 <img width="5%" title="Allure Report" src="media/icons/Allure.svg">
