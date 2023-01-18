@@ -19,15 +19,15 @@
 <img width="5%" title="Java" src="Image/Java.svg">
 <img width="5%" title="Selenoid" src="Image/Selenoid.svg">
 <img width="5%" title="Selenide" src="Image/Selenide.svg">
-<img width="5%" title="Gradle" src="media/icons/Gradle.svg">
-<img width="5%" title="Junit5" src="media/icons/Junit5.svg">
-<img width="5%" title="Allure Report" src="media/icons/Allure.svg">
-<img width="5%" title="Allure TestOps" src="media/icons/Allure_TO.svg">
-<img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
-<img width="5%" title="Appium" src="media/icons/Appium.svg">
-<img width="5%" title="Browserstack" src="media/icons/Browserstack.svg">
-<img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
-<img width="5%" title="Jira" src="media/icons/Jira.svg">
+<img width="5%" title="Gradle" src="Image/Gradle.svg">
+<img width="5%" title="Junit5" src="Image/Junit5.svg">
+<img width="5%" title="Allure Report" src="Image/Allure.svg">
+<img width="5%" title="Allure TestOps" src="Image/Allure_TO.svg">
+<img width="5%" title="Jenkins" src="Image/Jenkins.svg">
+<img width="5%" title="Appium" src="Image/Appium.svg">
+<img width="5%" title="Browserstack" src="Image/Browserstack.svg">
+<img width="5%" title="RestAssured" src="Image/RestAssured.svg">
+<img width="5%" title="Jira" src="Image/Jira.svg">
 
 </p>
 
