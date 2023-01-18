@@ -12,68 +12,31 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
-# Проект по API тестированию для 
+ ### 🛠 &nbsp;Languages and Tools :
 
-## :page_with_curl:	Содержание
+<p  align="center"> 
 
-> :heavy_check_mark: [Технологии и инструменты](#technologist-технологии-и-инструменты)
->
-> :heavy_check_mark: [Реализованы проверки](#bookmark_tabs-реализованы-проверки)
-> 
-> :heavy_check_mark: [Запуск тестов из терминала](#computer-Запуск-тестов-из-терминала)
-> 
-> :heavy_check_mark: [Запуск тестов в Jenkins](#-запуск-тестов-в-jenkins)
->
-> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-отчет-о-результатах-тестирования-в-allure-report)
+<img width="5%" title="Java" src="media/icons/Java.svg">
+<img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
+<img width="5%" title="Selenide" src="media/icons/Selenide.svg">
+<img width="5%" title="Gradle" src="media/icons/Gradle.svg">
+<img width="5%" title="Junit5" src="media/icons/Junit5.svg">
+<img width="5%" title="Allure Report" src="media/icons/Allure.svg">
+<img width="5%" title="Allure TestOps" src="media/icons/Allure_TO.svg">
+<img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
+<img width="5%" title="Appium" src="media/icons/Appium.svg">
+<img width="5%" title="Browserstack" src="media/icons/Browserstack.svg">
+<img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
+<img width="5%" title="Jira" src="media/icons/Jira.svg">
 
-## :technologist: Технологии и инструменты
-
-<p  align="center">
-
-<code><img width="5%" title="IntelliJ IDEA" src="images/logo/Idea.svg"></code>
-<code><img width="5%" title="Java" src="images/logo/Java.svg"></code>
-<code><img width="5%" title="Gradle" src="images/logo/Gradle.svg"></code>
-<code><img width="5%" title="Junit5" src="images/logo/Junit5.svg"></code>
-<code><img width="5%" title="GitHub" src="images/logo/GitHub.svg"></code>
-<code><img width="5%" title="Allure Report" src="images/logo/Allure.svg"></code>
-<code><img width="5%" title="Jenkins" src="images/logo/Jenkins.svg"></code>
-<code><img width="5%" title="RestAssured" src="images/logo/RestAssured.svg"></code>
 </p>
 
-## :bookmark_tabs: Реализованы проверки
+ ## My projects:
+### :heavy_check_mark: UI Autotests for bookcity.kz web store
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/DaurB/final_project_ui)
 
->- [x] *Позитивная регистрация пользователя*
->- [x] *Регистрация пользователя без доступа*
->- [x] *Негативный тест на регистрацию (без пароля)*
->- [x] *Создание нового пользователя*
->- [x] *Запрос данных о списке пользователей*
->- [x] *Запрос данных о конкретном пользователе*
+### :heavy_check_mark: API Autotests for reqres.in website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_api)](https://github.com/DaurB/final_project_api)
 
-## :computer: Запуск тестов из терминала
-Для запуска тестов используйте команду:
-
-```bash
-gradle clean test
-```
-
-## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/C15-Almer_Kiuze-hw-jenkins/8/allure/)
-
-*Для запуска сборки необходимо нажать кнопку <code><strong>*Собрать сейчас*</strong></code>.*
-
-<p align="center">
-  <img src="images/screens/Jenkins.jpg" alt="Jenkins" width="800">
-</p>
-
-
-### Главное окно
-
-<p align="center">
-  <img src="images/screens/Allure_report.jpg" alt="Allure_report" width="800">
-</p>
-
-### Окно с тест-кейсами
-
-<p align="center">
-  <img src="images/screens/Allure_report2.jpg" alt="Allure_report2" width="800">
-</p>
-
+### :heavy_check_mark: Mobile Autotests for Wikipedia app
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_mobile)](https://github.com/DaurB/final_project_mobile)
