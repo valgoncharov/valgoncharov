@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**valgoncharov/valgoncharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m QA Engineer
 - 🌱 I’m currently learning at QA.GURU
