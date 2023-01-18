@@ -33,10 +33,10 @@
 
  ## My projects:
 ### :heavy_check_mark: UI Autotests for bookcity.kz web store
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/DaurB/final_project_ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_ui)](https://github.com/valgoncharov/final_project_ui)
 
 ### :heavy_check_mark: API Autotests for reqres.in website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_api)](https://github.com/DaurB/final_project_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_api)](https://github.com/valgoncharov/final_project_api)
 
 ### :heavy_check_mark: Mobile Autotests for Wikipedia app
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_mobile)](https://github.com/DaurB/final_project_mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_mobile)](https://github.com/valgoncharovB/final_project_mobile)
