@@ -32,7 +32,7 @@
 </p>
 
  ## My projects:
-### :heavy_check_mark: UI Autotests for bookcity.kz web store
+### :heavy_check_mark: UI Autotests for test web store
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_ui)](https://github.com/valgoncharov/final_project_ui)
 
 ### :heavy_check_mark: API Autotests for reqres.in website
