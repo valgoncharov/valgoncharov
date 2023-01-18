@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning at QA.GURU
 - 📫 How to reach me: Telegram @Almer_Kiuze
 
-# Проект по API тестированию для [reqres.in](https://reqres.in/)
+# Проект по API тестированию для 
 
 ## :page_with_curl:	Содержание
 
@@ -43,12 +43,31 @@
 >- [x] *Запрос данных о списке пользователей*
 >- [x] *Запрос данных о конкретном пользователе*
 
+## :computer: Запуск тестов из терминала
+Для запуска тестов используйте команду:
+
+```bash
+gradle clean test
+```
+
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/C15-Almer_Kiuze-hw-jenkins/8/allure/)
+
+*Для запуска сборки необходимо нажать кнопку <code><strong>*Собрать сейчас*</strong></code>.*
+
+<p align="center">
+  <img src="images/screens/Jenkins.jpg" alt="Jenkins" width="800">
+</p>
+
 
 ### Главное окно
 
-
+<p align="center">
+  <img src="images/screens/Allure_report.jpg" alt="Allure_report" width="800">
+</p>
 
 ### Окно с тест-кейсами
 
-
+<p align="center">
+  <img src="images/screens/Allure_report2.jpg" alt="Allure_report2" width="800">
+</p>
 
