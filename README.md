@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+### Hi there! I'm Valentyne 👋
 - 🔭 I’m QA Engineer
 - 🌱 I’m currently learning at QA.GURU
 - 📫 How to reach me: Telegram @Almer_Kiuze
