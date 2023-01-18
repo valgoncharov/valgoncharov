@@ -31,6 +31,8 @@
 
 </p>
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgoncharov)](https://github.com/valgoncharov/github-readme-stats)
+
  ## My projects:
 ### :heavy_check_mark: UI Autotests for test web example
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=qa_guru_owner)](https://github.com/valgoncharov/qa_guru_owner)
