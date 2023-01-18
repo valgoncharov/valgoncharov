@@ -32,8 +32,8 @@
 </p>
 
  ## My projects:
-### :heavy_check_mark: UI Autotests for test web store
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_ui)](https://github.com/valgoncharov/final_project_ui)
+### :heavy_check_mark: UI Autotests for test web example
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=qa_guru_hw01)](https://github.com/valgoncharov/qa_guru_hw01)
 
 ### :heavy_check_mark: API Autotests for reqres.in website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=diplomApi)](https://github.com/valgoncharov/diplomApi)
