@@ -42,6 +42,7 @@
 ### :heavy_check_mark: Mobile Autotests for Wikipedia app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_mobile)](https://github.com/valgoncharovB/final_project_mobile)
 
+### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valgoncharov)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valgoncharov) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valgoncharov)
