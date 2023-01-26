@@ -40,7 +40,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=diplomApi)](https://github.com/valgoncharov/diplomApi)
 
 ### :heavy_check_mark: Mobile Autotests for Wikipedia app
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=final_project_mobile)](https://github.com/valgoncharovB/final_project_mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valgoncharov&repo=diplomAppMobile)](https://github.com/valgoncharov/diplomAppMobile)
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valgoncharov)
